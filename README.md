@@ -3,7 +3,7 @@
 This is an example of the stub that will be generated:
 https://ziacreatesideas.github.io/SPHINX_GETTING_STARTED_TEMPLATE/
 
-After you pull this repo, you will need to follow the install directions here:
+After you clone this repo, you will need to follow the install directions here:
 https://ziacreatesideas.github.io/STUDY_SPHINX-MYST
 
 
