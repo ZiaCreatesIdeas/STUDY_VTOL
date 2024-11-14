@@ -64,7 +64,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = 'Sphinx Template'
-copyright = 'None'
+copyright = '2024'
 author = 'Zia'
 
 # The version info for the project you're documenting, acts as replacement for
