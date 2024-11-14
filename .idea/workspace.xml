@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9aaf3d54-50ad-4257-b5f7-5feb550bfd38" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/doc/conf.py" beforeDir="false" afterPath="$PROJECT_DIR$/doc/conf.py" afterDir="false" />
-    </list>
+    <list default="true" id="9aaf3d54-50ad-4257-b5f7-5feb550bfd38" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,11 +32,20 @@
           <provider selected="true" editor-type-id="restructured-text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/doc/conf.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="765">
               <caret line="66" column="17" selection-start-line="66" selection-start-column="17" selection-end-line="66" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.github/workflows/documentation.yaml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="27" />
             </state>
           </provider>
         </entry>
@@ -97,6 +104,17 @@
             <path>
               <item name="STUDY_SPHINX-MYST" type="b2602c69:ProjectViewProjectNode" />
               <item name="STUDY_SPHINX-MYST" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="STUDY_SPHINX-MYST" type="b2602c69:ProjectViewProjectNode" />
+              <item name="STUDY_SPHINX-MYST" type="462c0819:PsiDirectoryNode" />
+              <item name=".github" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="STUDY_SPHINX-MYST" type="b2602c69:ProjectViewProjectNode" />
+              <item name="STUDY_SPHINX-MYST" type="462c0819:PsiDirectoryNode" />
+              <item name=".github" type="462c0819:PsiDirectoryNode" />
+              <item name="workflows" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="STUDY_SPHINX-MYST" type="b2602c69:ProjectViewProjectNode" />
@@ -207,13 +225,6 @@
     <entry file="file://$PROJECT_DIR$/doc/myfile.md" />
     <entry file="file://$PROJECT_DIR$/_build/installation.html" />
     <entry file="file://$PROJECT_DIR$/_build/learn_myst.html" />
-    <entry file="file://$PROJECT_DIR$/.github/workflows/documentation.yaml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/doc/installation.rst" />
     <entry file="file://$PROJECT_DIR$/doc/Images/workflow-yaml.png" />
     <entry file="file://$PROJECT_DIR$/doc/learning.rst" />
@@ -253,6 +264,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="765">
           <caret line="66" column="17" selection-start-line="66" selection-start-column="17" selection-end-line="66" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.github/workflows/documentation.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="27" />
         </state>
       </provider>
     </entry>
