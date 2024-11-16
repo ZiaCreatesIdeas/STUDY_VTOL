@@ -9,4 +9,4 @@ https://ziacreatesideas.github.io/STUDY_SPHINX-MYST
 
 We use this example in one [CodeRefinery](https://coderefinery.org/) lesson:
 - https://coderefinery.github.io/documentation/
-# JustATest
+### This is a sample template to get started with Sphinx
