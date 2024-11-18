@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9aaf3d54-50ad-4257-b5f7-5feb550bfd38" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="9aaf3d54-50ad-4257-b5f7-5feb550bfd38" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +47,7 @@
           <provider selected="true" editor-type-id="restructured-text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/doc/conf.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1094">
@@ -58,7 +56,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
@@ -111,8 +109,8 @@
         <option value="$PROJECT_DIR$/doc/installation.rst" />
         <option value="$PROJECT_DIR$/doc/learn_myst.md" />
         <option value="$PROJECT_DIR$/../TestA/README.md" />
-        <option value="$PROJECT_DIR$/doc/conf.py" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/doc/conf.py" />
       </list>
     </option>
   </component>
@@ -133,6 +131,17 @@
             <path>
               <item name="SPHINX_GETTING_STARTED_TEMPLATE" type="b2602c69:ProjectViewProjectNode" />
               <item name="SPHINX_GETTING_STARTED_TEMPLATE" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SPHINX_GETTING_STARTED_TEMPLATE" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SPHINX_GETTING_STARTED_TEMPLATE" type="462c0819:PsiDirectoryNode" />
+              <item name=".github" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SPHINX_GETTING_STARTED_TEMPLATE" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SPHINX_GETTING_STARTED_TEMPLATE" type="462c0819:PsiDirectoryNode" />
+              <item name=".github" type="462c0819:PsiDirectoryNode" />
+              <item name="workflows" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="SPHINX_GETTING_STARTED_TEMPLATE" type="b2602c69:ProjectViewProjectNode" />
@@ -185,7 +194,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="493" y="76" width="2014" height="1333" extended-state="0" />
+    <frame x="506" y="106" width="2014" height="1333" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13246362" />
@@ -280,6 +289,16 @@
     <entry file="file://$PROJECT_DIR$/doc/credit.rst">
       <provider selected="true" editor-type-id="restructured-text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="242">
+            <caret line="11" column="56" selection-start-line="11" selection-start-column="56" selection-end-line="11" selection-end-column="56" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/.github/workflows/documentation.yaml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="594">
@@ -291,16 +310,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1094">
           <caret line="66" column="17" selection-start-line="66" selection-start-column="17" selection-end-line="66" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="242">
-            <caret line="11" column="56" selection-start-line="11" selection-start-column="56" selection-end-line="11" selection-end-column="56" />
-          </first_editor>
-          <second_editor />
         </state>
       </provider>
     </entry>
