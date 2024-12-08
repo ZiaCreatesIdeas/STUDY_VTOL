@@ -1,7 +1,7 @@
 
 
 (resources)=
-#### Example of a Header
+#### Example of a MY HEADER
 
 This is a list of helpful tutorials.
 
